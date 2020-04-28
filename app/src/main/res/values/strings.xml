@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="hint_password">Enter your password...</string>
+    <string name="hint_email">Enter your email...</string>
+    <string name="Logo">Login Logo</string>
+    <string name="text_login">Login to account</string>
+    <string name="text_new_account">Need a new account</string>
+    <string name="action_search">Search</string>
+    <string name="action_account">Account Settings</string>
+    <string name="action_logout">Log out</string>
+    <string name="hint_register_confirm">Confirm password</string>
+    <string name="textRegister">Create new account</string>
+    <string name="text_have_account">Already have an account?</string>
+    <string name="hint_setup">Enter your name...</string>
+    <string name="btn_setup">Save Account Settings</string>
+    <string name="setup_hint_email">Email</string>
+    <string name="hint_newpost">Add Description</string>
+    <string name="text_new_post">Post it!</string>
+    <string name="bottom_home_Title">Home</string>
+    <string name="bottom_notification_nav">Notification</string>
+    <string name="bottom_account_nav">Account</string>
+    <string name="btn_send_comment">Send</string>
+    <string name="txt_comment">Comments :</string>
+    <string name="hint_your_comment">Your comment...</string>
+    <string name="text_account_name">User Name</string>
+    <string name="text_account_email_1">Email:</string>
+    <string name="text_account_post_count">Number of posts</string>
+    <string name="text_account_count">0</string>
+
+    <string name="CHANNEL_ID">1</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+
+    <string name="DEBUG_TAG">notification</string>
+</resources>
