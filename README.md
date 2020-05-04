@@ -23,5 +23,5 @@ thích và bình luận về PhotoBlog của người dùng khác.
 
 <img src="https://user-images.githubusercontent.com/52748849/80977998-adf07900-8e4f-11ea-96f4-07f6b60d6e4a.png" width="500" height="800" />
 
-- Tab Notification sẽ hiển thị các thông báo mà app gửi về
+- Tab Notification sẽ hiển thị các thông báo mà app gửi về sử dụng Service để lắng nghe các thông báo được gửi về và báo với người dùng thông qua Notification 
 <img src="https://user-images.githubusercontent.com/52748849/80978079-ca8cb100-8e4f-11ea-9057-e55938daa239.png" width="500" height="800" />
